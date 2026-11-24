@@ -1,0 +1,45 @@
+# MMK Library
+
+Digital archive of the Moscow Methodological Circle (MMK): works by G.P. Shchedrovitsky and his school.
+207 full-text books in Markdown (OCR-extracted), 219 scanned originals in PDF and DJVU, 8 audio lectures.
+Period: 1959–2014. Language: Russian. License: CC BY-SA 4.0.
+
+Repository: https://github.com/soviet-methodology/MMK_Library
+Author: Maxim Osovsky (https://www.linkedin.com/in/maximosovsky/)
+
+## Key facts
+
+- 207 Markdown files (full-text OCR from scans, ~16 MB) in md/
+- 123 PDF scans (~1.4 GB) + 96 DJVU scans (~450 MB)
+- 8 MP3 audio lectures (~360 MB)
+- 196 HTML source captures from fondgp.ru (~240 MB)
+- 204 book folders (one per work): author—title—year
+- 85+ unique authors: Shchedrovitsky, Blauberg, Piskopel, Ladenko, Litvinov, etc.
+- All texts post-processed: hyphen cleanup applied to OCR output
+
+## Structure
+
+MMK_Library/
+├── md/                          # 207 full-text Markdown files
+├── Блауберг И.Г. - .../        # 204 book folders, each = one work
+│   ├── ...pdf
+│   └── ...djvu
+├── .gitignore
+├── llms.txt
+├── llms-full.txt
+└── README.md
+
+## How to use
+
+```bash
+git clone https://github.com/soviet-methodology/MMK_Library.git
+cd MMK_Library
+grep -r "мыследеятельность" md/     # Full-text search across all books
+```
+
+Read any book: open md/*.md. Verify wording against scans in corresponding book folders.
+
+## Topics
+
+mmk, methodology, smd-methodology, shchedrovitsky, soviet-philosophy, activity-theory,
+ocr, archive, djvu, audio-lectures, moscow-methodological-circle, pedagogy
