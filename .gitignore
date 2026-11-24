@@ -1,0 +1,21 @@
+# Large binaries (tracked with Git LFS)
+*.pdf
+*.djvu
+*.mp3
+
+# Scanned pages (keep only text versions)
+*.jpg
+*.jpeg
+*.gif
+
+# Legacy formats (source docs)
+*.doc
+*.docx
+*.epub
+*.odt
+
+# Temporary OCR files
+_ocr_temp/
+
+# HTML comparison tables
+*.html
