@@ -863,6 +863,13 @@ Read any book: open md/*.md. Verify wording against scans in corresponding book 
 
 ---
 
+## Related Archives
+
+- [Voprosy Metodologii](https://github.com/maximosovsky/voprosy-metodologii) — digital archive of the journal *Вопросы методологии* (1991–1999): scans, OCR, tables of contents
+- [Almanac Kentavr](https://github.com/maximosovsky/almanac-Kentavr) — digital archive of the almanac *Кентавр* (1990–2007): 40 issues with scans and searchable texts
+
+---
+
 ## Topics
 
 mmk, methodology, smd-methodology, shchedrovitsky, soviet-philosophy, activity-theory, ocr, archive, djvu, audio-lectures, moscow-methodological-circle, pedagogy

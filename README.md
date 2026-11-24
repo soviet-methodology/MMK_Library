@@ -155,6 +155,13 @@ Do not overwrite or renumber source files. New texts must include provenance (so
 
 ---
 
+## 🔗 Related Archives
+
+- [Voprosy Metodologii](https://github.com/maximosovsky/voprosy-metodologii) — digital archive of the journal *Вопросы методологии* (1991–1999): scans, OCR, tables of contents
+- [Almanac Kentavr](https://github.com/maximosovsky/almanac-Kentavr) — digital archive of the almanac *Кентавр* (1990–2007): 40 issues with scans and searchable texts
+
+---
+
 ## 📄 License
 
 [Maxim Osovsky](https://www.linkedin.com/in/maximosovsky/). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

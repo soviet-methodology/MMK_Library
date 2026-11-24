@@ -39,6 +39,11 @@ grep -r "мыследеятельность" md/     # Full-text search across a
 
 Read any book: open md/*.md. Verify wording against scans in corresponding book folders.
 
+## Related archives
+
+- Voprosy Metodologii: https://github.com/maximosovsky/voprosy-metodologii
+- Almanac Kentavr: https://github.com/maximosovsky/almanac-Kentavr
+
 ## Topics
 
 mmk, methodology, smd-methodology, shchedrovitsky, soviet-philosophy, activity-theory,
